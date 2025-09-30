@@ -49,7 +49,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ### Derek Qua
 
-<img src="images/Derekqua.png" width="200px">
+<img src="images/derekqua.png" width="200px">
 
 [[github](https://github.com/Derekqua)]
 [[portfolio](team/Derekqua.md)]
